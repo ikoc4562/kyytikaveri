@@ -1,0 +1,53 @@
+{
+  "rides": [
+    {
+      "id": 1752345235496,
+      "from": "Helsinki",
+      "to": "Tampere",
+      "date": "2025-07-13",
+      "price": 23,
+      "availableSeats": 2,
+      "driver": "Isa",
+      "driverId": 1752344157039,
+      "createdAt": "2025-07-12T18:33:55.496Z"
+    },
+    {
+      "id": 1752346080133,
+      "from": "Helsinki",
+      "to": "Tampere",
+      "date": "2025-07-13",
+      "price": 22,
+      "availableSeats": 2,
+      "driver": "Isa",
+      "driverId": 1752344157039,
+      "createdAt": "2025-07-12T18:48:00.133Z"
+    },
+    {
+      "id": 1752349214152,
+      "from": "Helsinki",
+      "to": "Mikkeli",
+      "date": "2025-07-14",
+      "price": 34,
+      "availableSeats": 3,
+      "driver": "Burcu",
+      "driverId": 1752349194412,
+      "createdAt": "2025-07-12T19:40:14.152Z"
+    }
+  ],
+  "users": [
+    {
+      "id": 1752344157039,
+      "name": "Isa",
+      "email": "ikoc4562@gmail.com",
+      "password": "$2b$10$/iEkxKmqhr4vToQee1zWDeS1.RKxYPgqkUK/o6XHT7EMmSieT/Se2",
+      "createdAt": "2025-07-12T18:15:57.039Z"
+    },
+    {
+      "id": 1752349194412,
+      "name": "Burcu",
+      "email": "burcu@gmail.com",
+      "password": "$2b$10$F8BP1uspeAzTJCsp5Iv1r.Jh0ZMSoRHvhWIbtzUq6rh1fc5.G5zd2",
+      "createdAt": "2025-07-12T19:39:54.412Z"
+    }
+  ]
+}
